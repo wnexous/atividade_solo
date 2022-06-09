@@ -21,5 +21,5 @@ primentamente, escolhemos uma pasta vazia para que manipulemos o seus arquivos p
 4. nano README.md // para criar o arquivo README.md usando o editor nano
 5. git add README.md // para adicionar o arquivo ao repositorio git interno
 6. git commit -m "mensagem" // para comentar a alteracao feita
-7. git push origin main // caso seja o primeiro comando, abrira uma janela para logar no GitHUB. Caso ja logado, retornara um erro
+7. git push origin main // caso seja o primeiro comando, abrira uma janela para logar no GitHUB. Caso ja logado, o arquivo fara o upload corretamente
 
